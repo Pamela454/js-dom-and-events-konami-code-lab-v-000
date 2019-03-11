@@ -20,4 +20,4 @@ function init() {
   }
 }
 
-init()
+init();
