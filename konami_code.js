@@ -14,5 +14,8 @@ function init() {
         alert("You did it!");
       }
     }
+    else {
+      index = 0;
+    }
   }
 }
