@@ -8,5 +8,6 @@ function init() {
       index++; 
       
     if (index === code.length) {
+      alert("You did it!");
     }
 }
